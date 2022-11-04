@@ -1,0 +1,71 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,10 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="9a46d8b2-3b8b-4ecf-a064-11111857822e" name="Changes" comment="Add Test Dashboard">
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/gitcollab/pages/Dashboard.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/juaracoding/gitcollab/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/gitcollab/Main.java" afterDir="false" />
+-    </list>
++    <list default="true" id="9a46d8b2-3b8b-4ecf-a064-11111857822e" name="Changes" comment="Update Test Order" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -23,7 +20,7 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="master" />
++        <entry key="$PROJECT_DIR$" value="rizki" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -59,7 +56,28 @@
+       <option name="project" value="LOCAL" />
+       <updated>1667565001418</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="Add Test Dashboard">
++      <created>1667567448372</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1667567448372</updated>
++    </task>
++    <task id="LOCAL-00003" summary="Add Test Recruitment">
++      <created>1667567545950</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1667567545950</updated>
++    </task>
++    <task id="LOCAL-00004" summary="Update Test Order">
++      <created>1667567716497</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1667567716498</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -75,6 +93,9 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="template cucumber hooks" />
+-    <option name="LAST_COMMIT_MESSAGE" value="template cucumber hooks" />
++    <MESSAGE value="Add Test Dashboard" />
++    <MESSAGE value="Add Test Recruitment" />
++    <MESSAGE value="Update Test Order" />
++    <option name="LAST_COMMIT_MESSAGE" value="Update Test Order" />
+   </component>
+ </project>
+\ No newline at end of file
