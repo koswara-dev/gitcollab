@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a46d8b2-3b8b-4ecf-a064-11111857822e" name="Changes" comment="" />
+    <list default="true" id="9a46d8b2-3b8b-4ecf-a064-11111857822e" name="Changes" comment="template cucumber hooks">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/gitcollab/pages/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/gitcollab/step_definitions/TestOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2H5AyqJKFJT4CU9N92y5Ox7aoNI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +53,29 @@
       <option name="presentableId" value="Default" />
       <updated>1667564833012</updated>
     </task>
+    <task id="LOCAL-00001" summary="template cucumber hooks">
+      <created>1667565001418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667565001418</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="template cucumber hooks" />
+    <option name="LAST_COMMIT_MESSAGE" value="template cucumber hooks" />
   </component>
 </project>
